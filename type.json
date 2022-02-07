@@ -1,0 +1,17 @@
+{
+  "Index":"INTEGER",
+  "Step":"INTEGER",
+  "Loop1":"TEXT",
+  "Loop2":"TEXT",
+  "Action":"TEXT",
+  "Model":"TEXT",
+  "Step Time(ms)":"INTEGER",
+  "Total Time(ms)":"INTEGER",
+  "Voltage(mV)":"REAL",
+  "Current(mA)":"REAL",
+  "Power(W)":"REAL",
+  "Temperature(C)":"REAL",
+  "mAh":"REAL",
+  "Wh":"REAL",
+  "Ch Status":"TEXT"
+}
